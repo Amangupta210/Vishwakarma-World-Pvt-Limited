@@ -8,7 +8,7 @@ This project is intended strictly for official use by Vishwakarma World Pvt Limi
 Author & Ownership
 
 Created by Aman Gupta (Official)
-Founder / Developer – Vishwakarma World Pvt Limited
+Developer – Vishwakarma World Pvt Limited
 
 📷 Instagram: https://www.instagram.com/gupta_aman_1516
 
